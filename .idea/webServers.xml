@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="96e67c8e-9def-4e6b-981a-dad7f3775ac6" name="test">
+        <fileTransfer rootFolder="/home/face_guardian" accessType="SFTP" host="120.25.179.175" port="22" sshConfigId="e4b87642-992f-4f5f-aac1-34e16611f33e" sshConfig="root@120.25.179.175:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
